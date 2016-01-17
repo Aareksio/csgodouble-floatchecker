@@ -1,1 +1,1 @@
-## [![Install](https://i.imgur.com/hKHfyWz.png)](https://raw.githubusercontent.com/Aareksio/csgodoubled-floatchecker/master/csgodouble.com-floatchecker.user.js)
+## [![Install](https://i.imgur.com/hKHfyWz.png)](https://github.com/Aareksio/csgodouble-floatchecker/raw/master/csgodouble.com-floatchecker.user.js)
