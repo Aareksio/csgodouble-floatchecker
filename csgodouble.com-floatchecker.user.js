@@ -12,7 +12,7 @@
 "use strict";
 
 function checkfloat(ins) {
-    var myWindow = window.open("http://king-dev.com/float.php#" + ins, "", "toolbar=no, scrollbars=no, resizable=no, top=150, left=150, width=320, height=120");
+    var myWindow = window.open("http://king-dev.com/float.php#" + ins, "", "toolbar=no, scrollbars=no, resizable=no, top=150, left=150, width=340, height=120");
 }
 
 $("#contextMenu").append("<li><a tabindex='-1' href=\"javascript:checkfloat($('#contextMenu [data-act=0]').attr('href'))\" data-act='1'>Check Float...</a></li>");
